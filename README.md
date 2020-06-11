@@ -1,5 +1,5 @@
 # SocialDistancer-iOS
-This is an attempt to create an app that detects other phones that are broadcasting the Exposure Notification BLE service.
+This is a failed attempt to create an app that detects other phones that are broadcasting the Exposure Notification BLE service.
 
 ## The goal?
 To save the world! I mean, to create an app that helps a user to safely social distance by scanning for other phones that are broadcasting the Exposure Notification BLE service.
