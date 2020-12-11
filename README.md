@@ -6,8 +6,10 @@ To save the world! I mean, to create an app that helps a user to safely social d
 
 ## Screenshots
 <img src="https://github.com/djk12587/SocialDistancer-iOS/blob/master/Screenshots/demo.gif" width="240" height="520"><br>
-<img src="https://github.com/djk12587/SocialDistancer-iOS/blob/master/Screenshots/intro.PNG" width="240" height="520"><img src="https://github.com/djk12587/SocialDistancer-iOS/blob/master/Screenshots/not_scanning.PNG" height="520"><br>
-<img src="https://github.com/djk12587/SocialDistancer-iOS/blob/master/Screenshots/scanning.PNG" width="240" height="520"><img src="https://github.com/djk12587/SocialDistancer-iOS/blob/master/Screenshots/scanning_devices_found.PNG" width="240" height="520">
+<img src="https://github.com/djk12587/SocialDistancer-iOS/blob/master/Screenshots/intro.PNG" width="240" height="520"> 
+<img src="https://github.com/djk12587/SocialDistancer-iOS/blob/master/Screenshots/not_scanning.PNG" height="520"><br>
+<img src="https://github.com/djk12587/SocialDistancer-iOS/blob/master/Screenshots/scanning.PNG" width="240" height="520"> 
+<img src="https://github.com/djk12587/SocialDistancer-iOS/blob/master/Screenshots/scanning_devices_found.PNG" width="240" height="520">
 
 ## What went wrong?
 We are not a government health organization or developers who have been endorsed and approved by a government health organization.
