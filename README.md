@@ -1,8 +1,11 @@
 # SocialDistancer-iOS
 This is a failed attempt to create an app that detects other phones that are broadcasting the Exposure Notification BLE service.
 
-## The goal?
+## The goal
 To save the world! I mean, to create an app that helps a user to safely social distance by scanning for other phones that are broadcasting the Exposure Notification BLE service.
+
+## How it was supposed to work
+This app would detect phones that are broadcasting the BLE Exposure Notification service ID `FD6F`. The app would calculate the Exposure Notification service RSSI strength & alert the user when the RSSI crossed a threshold.
 
 ## Screenshots
 <img src="https://github.com/djk12587/SocialDistancer-iOS/blob/master/Screenshots/demo.gif" width="240" height="520"><br>
@@ -11,7 +14,9 @@ To save the world! I mean, to create an app that helps a user to safely social d
 <img src="https://github.com/djk12587/SocialDistancer-iOS/blob/master/Screenshots/scanning.PNG" width="240" height="520"> 
 <img src="https://github.com/djk12587/SocialDistancer-iOS/blob/master/Screenshots/scanning_devices_found.PNG" width="240" height="520">
 
-## What went wrong?
+## What went wrong
+In an attempt to be first to market, we started developing this app before Apple & Google released their Exposure Notification updates to iOS & Android. Because of this, we made a lot of assumptions that turned out to be false.
+
 We are not a government health organization or developers who have been endorsed and approved by a government health organization.
 https://developer.apple.com/contact/request/exposure-notification-entitlement<br><br>
 CoreBluetooth doesn't allow you to scan for the Exposure Notification BLE service's CBUUID.
